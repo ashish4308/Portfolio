@@ -1,6 +1,47 @@
 .home {
-    background-color: black;
     height: 100vh;
     background-repeat: no-repeat;
     background-attachment: fixed;
+}
+
+.sidebar {
+    background-color: black;
+    height: 80vh;
+    border-bottom-left-radius: 50% 38%;
+    border-bottom-right-radius: 50% 38%;
+}
+
+.items {
+    padding-top: 90px;
+    width: 60vw;
+    display: flex;
+    font-size: 25px;
+    padding-left: 90px;
+}
+
+.items>p {
+    padding-left: 90px;
+}
+
+.items>p {
+    color: white;
+}
+
+.top {
+    display: flex;
+}
+
+.heading {
+    padding-top: 50px;
+    padding-left: 150px;
+    color: white;
+}
+
+.heading>h1 {
+    font-size: 80px;
+    text-decoration: underline 2px solid;
+}
+
+.sp {
+    color: yellow;
 }

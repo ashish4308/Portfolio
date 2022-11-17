@@ -1,0 +1,36 @@
+.body {
+    margin: 100px;
+    height: 200px;
+}
+
+.name {
+    color: white;
+    font-size: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sp {
+    color: yellow;
+}
+
+.intro {
+    padding-left: 300px;
+    color: white;
+    font-size: 70px;
+}
+
+.intro>div {
+    padding-left: 190px;
+}
+
+.type {
+    display: flex;
+}
+
+.spp {
+    color: yellow;
+    padding-left: 20px;
+}
