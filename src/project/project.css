@@ -1,0 +1,42 @@
+.project {
+    margin-top: 70px;
+    background-color: rgba(27, 26, 26, 0.952);
+    height: 130vh;
+}
+
+.pr>h1 {
+    font-size: 70px;
+    color: white;
+    margin-top: 90px;
+}
+
+.pr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pr-d {
+    margin-top: 19px;
+    font-size: 17px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image {
+    height: 220px;
+    margin-top: 100px;
+    margin-left: 170px;
+}
+
+.work-d {
+    margin-left: 120px;
+}
+
+.image-d {
+    height: 230px;
+    margin-top: 100px;
+    margin-left: 300px;
+}

@@ -1,6 +1,5 @@
 import React from 'react'
 import './body.css'
-import Img from './dp.jpg'
 import Tf from 'typewriter-effect'
 
 

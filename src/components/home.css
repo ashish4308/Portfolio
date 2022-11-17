@@ -5,10 +5,10 @@
 }
 
 .sidebar {
-    background-color: black;
-    height: 80vh;
-    border-bottom-left-radius: 50% 38%;
-    border-bottom-right-radius: 50% 38%;
+    background-color: rgba(27, 26, 26, 0.952);
+    height: 90vh;
+    border-bottom-left-radius: 40% 47%;
+    border-bottom-right-radius: 40% 47%;
 }
 
 .items {

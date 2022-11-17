@@ -1,0 +1,28 @@
+.footer {
+    background-color: rgba(27, 26, 26, 0.952);
+    height: 30vh;
+    border-top-left-radius: 60% 67%;
+    border-top-right-radius: 60% 67%;
+}
+
+.links {
+    color: white;
+    padding-top: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.imgg {
+    margin-left: 20px;
+    height: 45px;
+    border-radius: 60%;
+}
+
+.copy {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}

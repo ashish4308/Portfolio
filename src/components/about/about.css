@@ -1,0 +1,68 @@
+.about {
+    margin-top: 50px;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+    border-top-right-radius: 190%;
+    border-end-start-radius: 190%;
+    border-start-start-radius: 90% 88%;
+    border-end-end-radius: 90% 88%;
+}
+
+.container {
+    width: 70%;
+    background-color: rgba(88, 210, 114, 0.219);
+    border-top-right-radius: 90% 88%;
+    border-end-start-radius: 90% 88%;
+    border-start-start-radius: 190%;
+    border-end-end-radius: 190%;
+    display: flex;
+    justify-content: center;
+}
+
+.about-main {
+    margin-top: 150px;
+}
+
+.about-main>h1 {
+    font-size: 70px;
+    margin: 30px;
+}
+
+.content {
+    margin: 30px;
+    font-size: 30px;
+}
+
+.s {
+    color: blue;
+}
+
+.hi {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.others {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.btn {
+    margin-top: 30px;
+    margin-left: 300px;
+    width: 120px;
+    border: none;
+    background-color: blue;
+    color: white;
+    height: 40px;
+    font-size: 14px;
+    border-radius: 50px;
+}
+
+.btn-d {
+    margin-top: 10px;
+    margin-left: 317px;
+}
